@@ -5,7 +5,7 @@ My name is Derin Yilmaz
 Software Engineering Student
 ----------------------------
 
-I am in my third year studying Software Engineering at Western University. I am particularly interested in fullstack development as well as creating machine learning models.
+I am in my fourth year studying Software Engineering at Western University. I am particularly interested in fullstack development as well as creating machine learning models.
 
 * 🌍  I'm based in Windsor, ON
 * 🧠  I'm learning in-depth .NET core framework
