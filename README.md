@@ -2,13 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Derin Yilmaz
 ====================================================================================================================================
 
-Software Engineering Student
+AI & Machine Learning Enthusiast | Software Engineering Student
 ----------------------------
 
-I am in my fourth year studying Software Engineering at Western University. I am particularly interested in fullstack development as well as creating machine learning models.
+In my fourth year at Western University, I've channeled my passion for Software Engineering towards the evolving realms of Machine Learning and AI. Delving deep into algorithms, data processing, and predictive modeling, I aim to leverage these technologies for full-stack development solutions.
 
 * 🌍  I'm based in Windsor, ON
-* 🧠  I'm learning in-depth .NET core framework
+* 🧠  Currently diving deep into AI-driven solutions using Python's vast array of libraries.
 
 ### Skills
 
