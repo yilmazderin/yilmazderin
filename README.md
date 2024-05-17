@@ -2,10 +2,10 @@ Hi!
 My name is Derin Yilmaz
 ====================================================================================================================================
 
-AI & Machine Learning Enthusiast | Software Engineering Student
+AI & Machine Learning Enthusiast | Software Engineer
 ----------------------------
 
-In my fourth year at Western University, I've channeled my passion for Software Engineering towards the evolving realms of Machine Learning and AI. With a keen interest in algorithms, data processing, and predictive modeling, I aim to leverage these technologies in creating innovative full-stack development solutions.
+I've channeled my passion for Software Engineering towards the evolving realms of Machine Learning and AI. With a keen interest in algorithms, data processing, and predictive modeling, I aim to leverage these technologies in creating innovative full-stack development solutions.
 
 * 🌍  I'm based in Windsor, ON
 * 🧠  Currently diving deep into AI-driven solutions using Python's vast array of libraries.
