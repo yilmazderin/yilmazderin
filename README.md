@@ -1,14 +1,17 @@
-Hi!
-My name is Derin Yilmaz
+Hi, I’m Derin Yilmaz 👋
 ====================================================================================================================================
 
-AI & Machine Learning Enthusiast | Software Engineer
-----------------------------
+Data Engineer | Software Engineer
+--------------------------------
 
-I've channeled my passion for Software Engineering towards the evolving realms of Machine Learning and AI. With a keen interest in algorithms, data processing, and predictive modeling, I aim to leverage these technologies in creating innovative full-stack development solutions.
+I’m a Data Engineer at **Morgan Stanley** with a strong software engineering foundation. I work on building and maintaining scalable data systems, focusing on reliability, performance, and clean data flows that support downstream analytics and applications.
 
-* 🌍  I'm based in Windsor, ON
-* 🧠  Currently diving deep into AI-driven solutions using Python's vast array of libraries.
+My background spans data engineering, backend development, and applied machine learning. I enjoy working across the stack — from designing data pipelines and APIs to writing performant, maintainable code — and I’m particularly interested in systems that operate at scale.
+
+* 🌍  Based in Ontario
+* 💼  Data Engineer at Morgan Stanley
+* ⚙️  Experience in data pipelines, ETL processes, and production-grade applications  
+* 🧠  Familiar with applied machine learning and data-driven problem solving using Python or Java
 
 ### Skills
 
